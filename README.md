@@ -21,5 +21,3 @@ python3 quadruped_RL.py
 
 <img src="https://github.com/varithpu/Quadruped_Robot_Reinforcement_Learning/blob/master/pics/pic1.png" width=50% height=50%>
 
-## Video
-https://www.youtube.com/watch?v=X7R5AOX7HzI
